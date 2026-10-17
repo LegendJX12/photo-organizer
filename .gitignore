@@ -1,0 +1,9 @@
+# Never commit personal data produced by the tools (file lists, logs, previews, plans)
+*.csv
+*.txt
+*.html
+!examples/*.csv
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
